@@ -1,6 +1,6 @@
 # 💹 FinanceOS — Finance Dashboard UI
 
-> A premium, interactive personal finance dashboard built for the **Frontend Developer Intern** assignment.
+> A premium, interactive personal finance dashboard 
 
 ![React](https://img.shields.io/badge/React-18-61DAFB?style=flat-square&logo=react)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES2023-F7DF1E?style=flat-square&logo=javascript)
@@ -173,8 +173,3 @@ All state is managed with React's built-in hooks:
 
 ---
 
-## 👤 Author
-
-Built for the **Frontend Developer Intern — Finance Dashboard UI** assignment.
-
-> *"Keep things simple and clear. The goal is to see how you think and build."*
